@@ -1,6 +1,7 @@
 # MySQLAPIAgent
 为MySQL数据库 API提高性能C++封装！
 Sample Code:
+
 try
 	{	
 		// 使用数据信息构造连接对象指针
